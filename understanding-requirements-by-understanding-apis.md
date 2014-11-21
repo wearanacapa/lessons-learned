@@ -7,7 +7,7 @@ In the world of software development, desired tasks or features can appear quite
 * user's phone number
 * payment information
 * confirmation of pickup
-* confirmation of drop-off
+* confirmation of drop-off 
 * confirmation of payment sent
 * rating of driver
     
@@ -19,6 +19,11 @@ Additionally, information that must be sent to the user’s device upon opening 
 
 Understanding the API requirements for a feature like Uber’s request a ride button, helps clarify the technological challenges involved.  Knowing this is incredibly helpful from a management perspective in understanding the risks and timelines associated with developing features for applications. 
 
-[Jeffery Cohen](http://www.huffingtonpost.co.uk/2012/04/18/the-goonies-chunk_n_1434409.html)
+@connorcwilson 
+@Sean2015
+@wearanacapa
+:+1:
+
+[Who is Chunk????](http://www.huffingtonpost.co.uk/2012/04/18/the-goonies-chunk_n_1434409.html)
 
 ![CHUNK](http://i.huffpost.com/gen/573105/thumbs/o-GOONIES-570.jpg?4)
