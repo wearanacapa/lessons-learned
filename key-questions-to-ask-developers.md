@@ -10,5 +10,5 @@ Long-term the goals is to get good enough at sniffing out the bad engineers that
 
 
 
-[Then we celebrate with champagne] (http://www.metroactive.com/papers/metro/12.31.97/dining-9753.html)
-! [] (http://cdn.firstwefeast.com/assets/2012/12/tumblr_lf4z77JzU51qb0jmvo1_500.gif)
+[Then we celebrate with champagne](http://www.metroactive.com/papers/metro/12.31.97/dining-9753.html)
+![Champagne] (http://fc06.deviantart.net/fs71/f/2012/014/8/6/champagne_showers_by_lmfaorobot-d4mbluo.jpg)
