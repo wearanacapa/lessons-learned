@@ -1,4 +1,4 @@
-+Hiring developers is something I anticipate doing regularly in the future. Knowing what questions to ask can save me a lot of time/money/pain as a manager.
+Hiring developers is something I anticipate doing regularly in the future. Knowing what questions to ask can save me a lot of time/money/pain as a manager.
 
 1. Which (thing) do you use?
 2. What do you compare it to?
