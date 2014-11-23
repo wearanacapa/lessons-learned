@@ -2,6 +2,6 @@ Maybe the most important takeaway from the course is the connexra format user st
 
 Another feature of the format is that beyond being succinct, it pushes managers to be very deliberate about necessary features and helps you prioritize them.
 
-(http://gotchamovies.com/sites/default/files/news/embedded-images/PSHBigLebowski.jpg)
+![ha haaaa] (http://www.rantlifestyle.com/wp-content/uploads/2014/02/PSH-Big-Lebowski.jpg)
 
 A continuation of the conextra format that can be useful for getting more specific with acceptance criteria for user stories is BDD (Behavior Driven Development), which uses the following template: "Given that..[initial context], when..[event occurs], then..[some outcome(s)]." 
