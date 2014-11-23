@@ -4,10 +4,21 @@ Using a physical or virtual kanban board is ones means of visually tracking work
 
 There are a variety of different tools available online to help with project management.  While each has its own strengths and weaknesses, it's not worth obsessing over which one to choose for smaller projects in which your team is less than or equal to 5 people.  Experimenting with a tool and then flexing to another one as needed is a better use of one's time.  Below are a few examples and some short notes on their advantages and disadvantages:
 
-*Excel (the most basic, harder to change dynamically)
-*Trello (flexible creation of boards that can mirror a kanban board, lacks swim lanes for more complex projects)
+*Excel (the most basic and old-school, hard to change dynamically and to integrate changes without emailing it around)
+
+*Trello (flexible creation of boards that can mirror a kanban board, lacks :swimmer: lanes for more complex projects)
+https://trello.com/ and review: https://www.g2crowd.com/products/trello/reviews
+
 *BaseCamp (the industry standard with lots of flexibility, but you're limited to 1 free one before paying a monthly fee)
+https://basecamp.com/ and review: http://www.pcmag.com/article2/0,2817,2372953,00.asp
+
 **Others: Jira, Lighthouse, Pivotal Tracker, Rally, and Mingle
 
-Overall, there seems to be significant merit in completing any one individual project as a whole and having a minimally viable product rather than working a little on a lot of projects and having no finished products until the very end.   
+Overall, as a rule of thumb, there seems to be significant merit in working sequentially (i.e. completing any one individual project as a whole and having a minimally viable product) rather than working in parallel (i.e. a little on a lot of projects and having no finished products until the very end).
+
+
+
+@wearanacapa
+@connorcwilson
+@davidfpease
 
