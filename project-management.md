@@ -12,6 +12,9 @@ https://trello.com/ and review: https://www.g2crowd.com/products/trello/reviews
 *BaseCamp (the industry standard with lots of flexibility, but you're limited to 1 free one before paying a monthly fee)
 https://basecamp.com/ and review: http://www.pcmag.com/article2/0,2817,2372953,00.asp
 
+Asana (real-time interaction, plain, and simple; lacks some advanced features that may limit its overall uptake)
+https://asana.com/ and http://www.projectmanagementsoftware.fm/review/asana/
+
 **Others: Jira, Lighthouse, Pivotal Tracker, Rally, and Mingle
 
 Overall, as a rule of thumb, there seems to be significant merit in working sequentially (i.e. completing any one individual project as a whole and having a minimally viable product) rather than working in parallel (i.e. a little on a lot of projects and having no finished products until the very end).
