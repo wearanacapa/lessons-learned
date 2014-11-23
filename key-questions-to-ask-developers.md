@@ -6,7 +6,7 @@ Hiring developers is something I anticipate doing regularly in the future. Knowi
 
 These questions apply to unit testing tools, version control systems and frameworks - all important tools for a developer to do their job well. Learning a little bit more these best practices - the need for version control systems, frameworks that can speed development, etc - will help me spot the disaster engineers.
 
-There are also good soft questions to bring up, like "how many languages are you fluent in" and "what are you learning right now that's new" that can help suss out whether an engineer is still on the cutting edge or not.
+There are also good soft questions to bring up, like "how many languages are you fluent in" and "what are you learning right now that's new" that can help suss out whether they are growing their skillset or atrophying. Some soft skill questions like "how do you work in a team" might also help determine whether an engineer is right for a given project.
 
 The long-term the goals is to get good enough at sniffing out the bad engineers that we only hire good ones by default and can focus instead on growing the business!
 
